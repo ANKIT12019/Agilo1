@@ -17,7 +17,7 @@ async function Header() {
         <Link href="/">
           <h1 className="text-2xl font-bold">
             <Image
-              src={"/logo2.png"}
+              src={"/fully.png"}
               alt="Zscrum Logo"
               width={200}
               height={56}
